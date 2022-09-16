@@ -1,0 +1,25 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "Node Jest test example ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMaidana/node-jest-test.git"
+  },
+  "author": "Christian Maidana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMaidana/node-jest-test/issues"
+  },
+  "homepage": "https://github.com/CMaidana/node-jest-test#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
